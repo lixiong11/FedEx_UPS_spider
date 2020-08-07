@@ -1,0 +1,41 @@
+track_id,first_data,first_time,date,time,location,activityScan
+,,,,,,
+1Z84TT670399692584,2020-7-22,2:47,,,,
+,,,,,,
+1Z51YV600441390724,2020-7-27,16:48,2020-7-30,10:11,"Louisville, KY, United States",Import Scan
+,,,,,,
+1Z9WV5620447004448,2020-7-29,12:17,2020-8-6,4:23,"Mount Hope, ON, Canada",Import Scan
+,,,,,,
+1Z51YV600440722537,2020-7-28,17:09,2020-7-31,7:17,"Ontario, CA, United States",Departed from Facility
+,,,,,,
+1Z51YV600442503494,2020-7-28,17:09,2020-8-6,16:44,"Shenzhen, China",Warehouse Scan
+,,,,,,
+1Z51YV600440506619,2020-7-28,17:09,2020-8-6,14:17,"Shenzhen, China",Warehouse Scan
+,,,,,,
+1Z84TT670308249180,2020-7-29,8:17,,,,
+,,,,,,
+1Z51YV600440551276,2020-7-30,14:43,2020-8-3,11:01,"Tamworth, United Kingdom",The package is being held for a future delivery date. We&#39;ll attempt to deliver on the date requested.
+,,,,,,
+1Z51YV600442433033,2020-7-31,15:41,2020-8-5,11:51,"Tamworth, United Kingdom",The package is being held for a future delivery date. We&#39;ll attempt to deliver on the date requested.
+,,,,,,
+1Z51YV600440897117,2020-7-31,16:53,2020-8-5,6:59,"Harrisburg, PA, United States",Departed from Facility
+,,,,,,
+1Z9WV7400447012299,2020-8-1,11:19,,,,
+,,,,,,
+1Z51YV600441599269,2020-8-1,14:33,2020-8-5,8:00,"Romoland, CA, United States",Arrived at Facility
+,,,,,,
+1Z7XF9690442503715,2020-8-1,14:33,2020-8-5,8:00,"Romoland, CA, United States",Arrived at Facility
+,,,,,,
+1Z51YV600442631186,2020-8-1,10:51,2020-8-4,11:45,"Tamworth, United Kingdom",The package is being held for a future delivery date. We&#39;ll attempt to deliver on the date requested.
+,,,,,,
+1Z51YV600440362195,2020-8-3,16:40,2020-8-5,11:51,"Tamworth, United Kingdom",The package is being held for a future delivery date. We&#39;ll attempt to deliver on the date requested.
+,,,,,,
+1Z51YV600442480107,2020-8-3,16:40,2020-8-4,20:41,"Chek Lap Kok, Hong Kong",Your package is in transit. We&#39;re updating plans to schedule your delivery. / The package will be forwarded to a UPS facility in the destination city.
+,,,,,,
+1Z558R950442734310,2020-8-4,18:25,2020-8-5,20:52,"Chek Lap Kok, Hong Kong",Your package is in transit. We&#39;re updating plans to schedule your delivery. / The package will be forwarded to a UPS facility in the destination city.
+,,,,,,
+1Z51YV600441934244,2020-8-5,14:20,2020-8-6,7:10,,Your package is being processed at the clearance agency.
+,,,,,,
+1Z51YV600442936295,2020-8-5,16:19,2020-8-6,15:03,"Shenzhen, China",Export Scan
+,,,,,,
+1Z558R950442445721,2020-8-5,19:00,2020-8-6,0:42,"Kwai Chung, Hong Kong",Origin Scan
